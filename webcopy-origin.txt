@@ -1,0 +1,384 @@
+Uri: http://maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\maps\api\js
+Content Type: text/javascript
+
+Uri: http://platform.twitter.com/widgets.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\widgets.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\index.htm
+Content Type: text/html
+
+Uri: http://www.infinostech.com/assets/css/animate.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\css\animate.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/css/bootstrap.min.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/css/main.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\css\main.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/css/nivo-lightbox.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\css\nivo-lightbox.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/css/responsive.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/css/slicknav.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\css\slicknav.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/fonts/line-icons.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\fonts\line-icons.css
+Content Type: text/css
+
+Uri: http://www.infinostech.com/assets/fonts/LineIcons.eot?tc3uo0
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.infinostech.com/assets/fonts/LineIcons.svg?tc3uo0
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: http://www.infinostech.com/assets/fonts/LineIcons.ttf?tc3uo0
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\fonts\LineIcons.ttf
+Content Type: font/ttf
+
+Uri: http://www.infinostech.com/assets/fonts/LineIcons.woff?tc3uo0
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\fonts\LineIcons.woff
+Content Type: font/woff
+
+Uri: http://www.infinostech.com/assets/img/about/about.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\about\about.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/about/img2.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\about\img2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/agnii-logo.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\agnii-logo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/amrita-logo.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\amrita-logo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/background/bg-pricing.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\background\bg-pricing.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/blog/img-1.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\blog\img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/blog/img-2.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\blog\img-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/blog/img-3.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\blog\img-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/endorse/ChiaraChiesa.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\endorse\ChiaraChiesa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/endorse/david iron.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\endorse\david iron.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/endorse/GeorgeSalazar.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\endorse\GeorgeSalazar.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/endorse/larisa.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\endorse\larisa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/gallery/1.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/gallery/2.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/gallery/3.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/gallery/4.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/gallery/5.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/gallery/6.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/logo11.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\logo11.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/partners/HeliloX Cosmos.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\partners\HeliloX Cosmos.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/partners/LUNAR MISSION ONE.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\partners\LUNAR MISSION ONE.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/partners/tho.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\partners\tho.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/products/3D AR ROBOTICS.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\products\3D AR ROBOTICS.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/products/IOT Box.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\products\IOT Box.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/slider/slide1.webm
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\slider\slide1.webm
+Content Type: video/webm
+
+Uri: http://www.infinostech.com/assets/img/speaker/speakers-1.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\speaker\speakers-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/speaker/speakers-2.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\speaker\speakers-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/speaker/speakers-3.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\speaker\speakers-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/sponsors/logo-01.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\sponsors\logo-01.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/sponsors/logo-02.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\sponsors\logo-02.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/sponsors/logo-03.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\sponsors\logo-03.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/sponsors/logo-04.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\sponsors\logo-04.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/Startindia.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\Startindia.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/team/Narayana.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\team\Narayana.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/team/Nitish.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\team\Nitish.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/team/Rohanak.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\team\Rohanak.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/team/saurav.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\team\saurav.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/tech-served/CVRCE Hyd.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\CVRCE Hyd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/tech-served/GAT Bangalore.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\GAT Bangalore.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/tech-served/MACE Kochi.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\MACE Kochi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/tech-served/PMIT.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\PMIT.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/tech-served/SNGCE Kochi.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\SNGCE Kochi.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/tech-served/TOCE Bangalore.png
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\TOCE Bangalore.png
+Content Type: image/png
+
+Uri: http://www.infinostech.com/assets/img/tech-served/VCE Warangal.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\VCE Warangal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/img/tech-served/VJCET Kochi.jpg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\img\tech-served\VJCET Kochi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.infinostech.com/assets/js/bootstrap.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/contact-form-script.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\contact-form-script.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/form-validator.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\form-validator.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/jquery-min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\jquery-min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/jquery.countdown.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/jquery.easing.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/jquery.nav.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\jquery.nav.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/jquery.slicknav.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/jssor.slider.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\jssor.slider.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/main.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/map.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\map.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/nivo-lightbox.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\nivo-lightbox.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/popper.min.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/assets/js/wow.js
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\assets\js\wow.js
+Content Type: application/javascript
+
+Uri: http://www.infinostech.com/index.html
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\index.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400|Josefin+Sans:700
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v24/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\s\josefinsans\v24\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/css/all.css
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.eot
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.eot?
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.svg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.ttf
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.woff
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-brands-400.woff2
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.eot
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.eot?
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.svg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.ttf
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.woff
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-regular-400.woff2
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.eot
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.eot?
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.svg
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.ttf
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.woff
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.2.0/webfonts/fa-solid-900.woff2
+File Name: C:\Users\abhay\OneDrive\Desktop\Projects\new\www.infinostech.com\releases\v5.2.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
